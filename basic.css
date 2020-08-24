@@ -1,0 +1,35 @@
+.container > div {
+    padding: 10px;
+    text-align: center;
+    font-size: 1,5em;
+    color: #22211f;
+  }
+  
+  html, body {
+    background-color: #c7ffad;
+    margin: 10px;
+  }
+  
+  .container > div:nth-child(1) {
+    background-color: #96ceb4;
+    display: align-self;	
+  }
+  
+  .container > div:nth-child(2) {
+    background-color: #ff6f69;
+    display: flex-grow;
+  }
+  
+  .container > div:nth-child(3) {
+    background-color: #88d8b0;
+  }
+
+  .container > div:nth-child(4) {
+    background-color: #eaee0d;
+  }
+
+  .container > div:nth-child(5) {
+    background-color: #f31325;
+  }
+  
+  
